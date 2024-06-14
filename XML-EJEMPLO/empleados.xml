@@ -1,0 +1,42 @@
+<empresa>
+    <empleado>
+        <nombre>Carlos Mamani</nombre>
+        <puesto>Desarrollador de Software</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Laura Quispe</nombre>
+        <puesto>Gerente de Proyectos</puesto>
+    </empleado>
+    <empleado>
+        <nombre>José Pérez</nombre>
+        <puesto>Analista de Datos</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Mariana Flores</nombre>
+        <puesto>Diseñador UX/UI</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Pedro Montes</nombre>
+        <puesto>Consultor Financiero</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Marcela Mendoza</nombre>
+        <puesto>Marketing Manager</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Lucas Arce</nombre>
+        <puesto>Analista de Sistemas</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Ana Rojas</nombre>
+        <puesto>Desarrollador Web</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Roberto Chávez</nombre>
+        <puesto>Administrador de Redes</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Valeria Méndez</nombre>
+        <puesto>Contadora</puesto>
+    </empleado>
+</empresa>
